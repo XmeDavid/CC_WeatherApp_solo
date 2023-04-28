@@ -48,3 +48,7 @@ Google Cloud Run Service.
 Google Cloud Run Service.
 ###### External Collector
 Google Cloud Run Job, with an attached Google Cloud Scheduler (to run the application every day).
+
+
+---
+David Simões Batista, 2220658
