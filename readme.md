@@ -1,8 +1,13 @@
 # Weather data appication
 
-#### Test for yourself!
+### Test for yourself!
+##### Frontend page
 You can go to this website to visit the front end page of the application:
-```https://frontend-wczredvtgq-uc.a.run.app/```
+[```https://frontend-wczredvtgq-uc.a.run.app/```](https://frontend-wczredvtgq-uc.a.run.app/)
+##### Backend, Database and Collector
+Included with the project, there is a sampleSensors folder with a small node application, that will send every 2 minutes random data to the collector(which then every 10 minutes will submit to the backend, that will store on the database).
+
+
 
 ## What is the application?
 This weather application can receive various data from weather sensors, store them, and show them to the user.
